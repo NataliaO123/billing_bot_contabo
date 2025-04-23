@@ -5,9 +5,7 @@ Automatic balance tracker for Contabo with daily notifications in Telegram.
 
 # 🚀 Quick start
 
-1. Clone the repository:
-git clone https://github.com/yourusername/billing_bot_contabo.git
-cd billing_bot_contabo
+1. Clone the repository.
 
 2. Create a .env file using the example.
 
